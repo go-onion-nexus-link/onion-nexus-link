@@ -58,3 +58,5 @@ Stay secure, stay anonymous, and always trust the official **Nexus onion link** 
 
 <a href="http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion"><img src="/custom/alpha.webp" style="max-width: 100%;"></a>
 <a href="http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion"><img src="/custom/sheet.webp" style="max-width: 100%;"></a>
+
+Update: Link is now accessible
