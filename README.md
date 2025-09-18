@@ -67,4 +67,6 @@ Stay secure, stay anonymous, and always trust the official **Nexus onion link** 
 
 
 
-Update:  Friday 12 September 2025 TOR URLs fixed
+
+
+Update:  Thursday 18 September 2025
