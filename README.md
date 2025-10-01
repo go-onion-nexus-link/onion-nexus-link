@@ -69,4 +69,6 @@ Stay secure, stay anonymous, and always trust the official **Nexus onion link** 
 
 
 
-Update:  Thursday 18 September 2025
+
+
+Update:  Wednesday 01 October 2025
